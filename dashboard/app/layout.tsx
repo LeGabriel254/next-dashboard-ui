@@ -4,6 +4,7 @@ import "./globals.css";
 import Link from "next/link";
 import React from "react";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
